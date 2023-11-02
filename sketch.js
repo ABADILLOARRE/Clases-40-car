@@ -5,7 +5,7 @@ var form, player, playerCount;
 var allPlayers, car1, car2;
 var cars = [];
 var fuelImage, powerCoinImage;
-
+var fuels, powerCoins
 
 //BP
 function preload() {
